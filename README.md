@@ -1,1 +1,1 @@
-# E-Commerce Shop built with HtmL, CSS
+# E-Commerce Shop built with HTML, CSS
